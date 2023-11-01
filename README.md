@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibtiheljl
 - 👀 I’m interested in OOP language
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning java
 - 📫 You can reach me on my linkedin account www.linkedin.com/in/ibtihel-jalel-a7546b185/
 
 <!---
